@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cars_to_wrecks",
+    "name": "Cars to Wrecks [Updated]",
+    "authors": [ "GiMoe" ],
+	"maintainers": [ "Havis" ],
+    "description": "Updated version of the Cars to wrecks mod.",
+    "category": "vehicles",
+    "dependencies": [ "dda" ]
+  }
+]
